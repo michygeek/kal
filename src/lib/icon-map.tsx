@@ -1,0 +1,32 @@
+import {
+  Building2,
+  Zap,
+  Droplets,
+  Waves,
+  Leaf,
+  Package,
+  ClipboardCheck,
+  Landmark,
+  Construction,
+  Fuel,
+  GraduationCap,
+  Building,
+  Wheat,
+  type LucideIcon,
+} from "lucide-react";
+
+export const iconMap: Record<string, LucideIcon> = {
+  Building2,
+  Zap,
+  Droplets,
+  Waves,
+  Leaf,
+  Package,
+  ClipboardCheck,
+  Landmark,
+  Construction,
+  Fuel,
+  GraduationCap,
+  Building,
+  Wheat,
+};
